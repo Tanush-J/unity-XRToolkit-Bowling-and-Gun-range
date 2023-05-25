@@ -1,20 +1,20 @@
 # unity-XRToolkit-Bowling-and-Gun-range
 VR bowling and gun range experience
 
-![Image 1](./readmeImages/image1.png)
+<img src="./readmeImages/image1.png" width=70% />
 
-![Image 2](./readmeImages/image2.png)
+<img src="./readmeImages/image2.png" width=70% />
 
-![Image 3](./readmeImages/image3.png)
+<img src="./readmeImages/image3.png" width=70% />
 
-![Image 4](./readmeImages/image4.png)
+<img src="./readmeImages/image4.png" width=70% />
 
-![Image 5](./readmeImages/image5.png)
+<img src="./readmeImages/image5.png" width=70% />
 
-![Image 6](./readmeImages/image6.png)
+<img src="./readmeImages/image6.png" width=70% />
 
-![Image 7](./readmeImages/image7.png)
+<img src="./readmeImages/image7.png" width=70% />
 
-![Image 8](./readmeImages/image8.png)
+<img src="./readmeImages/image8.png" width=70% />
 
-![Image 9](./readmeImages/image9.png)
+<img src="./readmeImages/image9.png" width=70% />
